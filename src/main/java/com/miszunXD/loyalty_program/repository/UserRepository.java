@@ -2,7 +2,6 @@ package com.miszunXD.loyalty_program.repository;
 
 import com.miszunXD.loyalty_program.model.User;
 import org.springframework.stereotype.Repository;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
